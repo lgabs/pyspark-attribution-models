@@ -1,2 +1,2 @@
 # pyspark-attribution-models
-A PysSpark package for Marketing Attribution Models
+A PySpark package for Marketing Attribution Models
